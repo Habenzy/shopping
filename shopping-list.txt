@@ -1,6 +1,2 @@
 eggs
-milk
-sourkraut
-jackfruit
-chunky 
-bread
+ketchup
